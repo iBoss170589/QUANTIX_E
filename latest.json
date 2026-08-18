@@ -1,0 +1,9 @@
+{
+    "version":  "1.0.1.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.1.0/QUANTIX_E_1.0.1.0.zip",
+    "sha256":  "44734CA685909AC6128265B5DF94C7B6422E9026FFEDD485718810BF9B615158",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.1.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "50FAAEF3133E0B7031A7D4B6EA0258AF87048CC2F7A6348E6A917CD4FB1D304F",
+    "notes":  "Primera versión de QUANTIX con actualizador automático",
+    "mandatory":  false
+}
