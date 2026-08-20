@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.3.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.3.0/QUANTIX_E_1.0.3.0.zip",
-    "sha256":  "B4A8076FF2C6D216118D1221CFDDAA77CC8DB6714779E2BD99F103E8EC061F1E",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.3.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "E6181DCD6C8BB285030FFBC89BE538D327A1F9C71D60DBEB6367933EAF2F55FD",
-    "notes":  "PXC MEJORADO",
+    "version":  "1.0.4.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.4.0/QUANTIX_E_1.0.4.0.zip",
+    "sha256":  "C0140EC89D876AF77F6C27878E9481AFA5BCFCC7CF9DA9617A570C3BE0A76870",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.4.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "31FB66F63D371504C895BC95905E8D767397E5D47AE688F898B1AD56502AEE91",
+    "notes":  "CORRECCIONES Y MEJORAS, MANDAR ANY DESK PARA ACTUALIZAR BD",
     "mandatory":  false
 }
