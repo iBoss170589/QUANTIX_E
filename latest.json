@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.8.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.8.0/QUANTIX_E_1.0.8.0.zip",
-    "sha256":  "7691DD42A0C96F866341D23ADD3825C135E82098857F7A0D2AE4B9F1ED2D5284",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.8.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "55610250C27CEEF03A99127CD6FD55B124F83ECACF285D35548B912C3FD1BF6B",
-    "notes":  "AJUSTES",
+    "version":  "1.0.9.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.9.0/QUANTIX_E_1.0.9.0.zip",
+    "sha256":  "24D650D38DAF851A9005F57BDAC8721E013B39839A29612F9A8F6D2BE0A8FC75",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.9.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "AF36E43CB247C3377F2E701BB1C2D95190107549106096D30A3A52461BAE7B7F",
+    "notes":  "INVENTARIO",
     "mandatory":  false
 }
