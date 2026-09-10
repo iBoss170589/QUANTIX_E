@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.25.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.25.0/QUANTIX_E_1.0.25.0.zip",
-    "sha256":  "FC5E89BC3DFC67F7433F931E52F52C8E3843FAAECD90B76D6C48EB82DF5583E5",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.25.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "E1291C30D45B4CB6F6A961BB3AC5BDD2C3245C110CB2B9CEEF93E0331E282C68",
-    "notes":  "VAINILLA V 1.0",
+    "version":  "1.0.26.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.26.0/QUANTIX_E_1.0.26.0.zip",
+    "sha256":  "99B06F146E984D5FB0B0E0265BDDB04B7649A770F715B34803F56A76AF04FDE1",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.26.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "5B6C580772318234109691C9A1548B5A084D4B37441D7BDA106259BA202C5E91",
+    "notes":  "VAINILLA V 1.1",
     "mandatory":  false
 }
