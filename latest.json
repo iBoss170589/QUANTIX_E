@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.39.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.39.0/QUANTIX_E_1.0.39.0-r2.zip",
-    "sha256":  "B24A07AD99298AE2937D95FF59FE578AA463CB536A124FB44570859E02B9C4F0",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.39.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "F4F89166064682BC69B4117BC9902AAF7764490AFC91EE4EE8739CA17FF8261E",
-    "notes":  "Tickets legibles sin ceros decimales sobrantes; preparaciÃ³n de Core antes de iniciar sesiÃ³n; actualizaciÃ³n completa conservando la configuraciÃ³n local.",
+    "version":  "1.0.40.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.40.0/QUANTIX_E_1.0.40.0.zip",
+    "sha256":  "D32FE7263EF74E73228C8A33C3559C974EF381056C45758CB9B5CE375628188C",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.40.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "A8E13DB865B64CB1475CEE522D645525EB1EE6D6ED4DE628E31717BE0C2580E8",
+    "notes":  "Pago conjunto de comisiones con límite de efectivo en el corte; tickets compactos y actualización completa.",
     "mandatory":  false
 }
