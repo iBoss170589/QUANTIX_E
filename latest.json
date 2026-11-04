@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.43.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.43.0/QUANTIX_E_1.0.43.0.zip",
-    "sha256":  "502F530B706D6CF2C925EAAA04B660085E9EE247C3AF9C9C5527AB362E7A8461",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.43.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "220F069ED97661F620D55269FAB841F37EB371AFB91F3E1F97DB35F57D15FE4B",
-    "notes":  "Corrección de etiquetas, vista previa en pestañas y mejoras de auditoría.",
+    "version":  "1.0.46.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.46.0/QUANTIX_E_1.0.46.0.zip",
+    "sha256":  "05312F1E97644AC2964C8702810CA2C7EA9B279B50A038384DE48F86E9692B7F",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.46.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "9AB9E3E07F76DAB71F9B71EE6DFFBC17ED93A15883993CCD8A7901EA422E0E93",
+    "notes":  "Comisión del asesor A: consigna y especial 7%, contado 5%, sobre remanente después de comisiones y gastos.",
     "mandatory":  false
 }
