@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.46.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.46.0/QUANTIX_E_1.0.46.0.zip",
-    "sha256":  "05312F1E97644AC2964C8702810CA2C7EA9B279B50A038384DE48F86E9692B7F",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.46.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "9AB9E3E07F76DAB71F9B71EE6DFFBC17ED93A15883993CCD8A7901EA422E0E93",
-    "notes":  "Comisión del asesor A: consigna y especial 7%, contado 5%, sobre remanente después de comisiones y gastos.",
+    "version":  "1.0.47.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.47.0/QUANTIX_E_1.0.47.0.zip",
+    "sha256":  "BCB34F4A8D4A32A134F1C30F358773E4C7B0C2F8422ABEB20973EB858AC05FBA",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.47.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "9C7E683B0A9FA4BF09A58BEA502AA5BDEBD229D45FE8761291299763FCAEDF90",
+    "notes":  "Actualizador: manejo de archivos de solo lectura, bibliotecas idénticas y bloqueos transitorios; errores detallados y registro persistente.",
     "mandatory":  false
 }
