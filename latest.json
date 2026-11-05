@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.48.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.48.0/QUANTIX_E_1.0.48.0.zip",
-    "sha256":  "B1546552C4224017C5E6E9AC75DC7111BE26A82A4F553930777AF58EC11B3B54",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.48.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "8DE4EDB8DE753FB23D2B6F37110A66FDF91231596EEC10F27EB7FE1BDE7500AB",
-    "notes":  "Comisiones: saldo de efectivo del corte abierto elegido, incluidos movimientos de días anteriores.",
+    "version":  "1.0.49.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.49.0/QUANTIX_E_1.0.49.0.zip",
+    "sha256":  "0EEC0258ABC035F8ABCFCE9E6944327AE36A6D35FE8F3DEA2B9DF790A30EB365",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.49.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "7142BC063B3BD6CC67C5799B687DBE5E5CC4638827893F498868D7C601DB2C9C",
+    "notes":  "Correcciones de cortes y comisiones: los pagos se reflejan en el corte seleccionado, con control del efectivo disponible.",
     "mandatory":  false
 }
