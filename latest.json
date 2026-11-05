@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.49.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.49.0/QUANTIX_E_1.0.49.0.zip",
-    "sha256":  "0EEC0258ABC035F8ABCFCE9E6944327AE36A6D35FE8F3DEA2B9DF790A30EB365",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.49.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.50.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.50.0/QUANTIX_E_1.0.50.0.zip",
+    "sha256":  "47F29FB8554DC30E65C3E3BE8BCF0593674074CA48DD83FFAEC513C67D5B615B",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.50.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "7142BC063B3BD6CC67C5799B687DBE5E5CC4638827893F498868D7C601DB2C9C",
-    "notes":  "Correcciones de cortes y comisiones: los pagos se reflejan en el corte seleccionado, con control del efectivo disponible.",
+    "notes":  "Arqueo de grupo: importes esperados y contados lado a lado, desglose de caja y conteo de efectivo en su propia pestana.",
     "mandatory":  false
 }
