@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.51.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.51.0/QUANTIX_E_1.0.51.0.zip",
-    "sha256":  "C6D44E89E5452C28DF0D0DC3ED406967F6276860498C74CC08EDE656D388F1CA",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.51.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.52.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.52.0/QUANTIX_E_1.0.52.0.zip",
+    "sha256":  "A67CA50D22E57B8FE14D91CCCC06ADA7491EAF35E5A6D65A43613198C278D095",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.52.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "7142BC063B3BD6CC67C5799B687DBE5E5CC4638827893F498868D7C601DB2C9C",
-    "notes":  "Cobranza y Abonos: si el corte de origen esta cerrado y no hay un corte receptor, el cobro abre una recuperacion con su fecha. Impresion: venta y nota de credito cuando hubo devolucion. Despues de actualizar, instale las pendientes en Configuracion \u003e Rutinas BD.",
+    "notes":  "Importador SAE62 para CEDIS: conserva inventario central, proveedores, compras, salidas y Kardex de compras y traspasos en una nueva base Core. La operacion de las rutas llega por sincronizacion. Configuracion permite ejecutar el primer envio completo a CEDIS.",
     "mandatory":  false
 }
