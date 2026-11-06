@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.50.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.50.0/QUANTIX_E_1.0.50.0.zip",
-    "sha256":  "47F29FB8554DC30E65C3E3BE8BCF0593674074CA48DD83FFAEC513C67D5B615B",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.50.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.51.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.51.0/QUANTIX_E_1.0.51.0.zip",
+    "sha256":  "C6D44E89E5452C28DF0D0DC3ED406967F6276860498C74CC08EDE656D388F1CA",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.51.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "7142BC063B3BD6CC67C5799B687DBE5E5CC4638827893F498868D7C601DB2C9C",
-    "notes":  "Arqueo de grupo: importes esperados y contados lado a lado, desglose de caja y conteo de efectivo en su propia pestana.",
+    "notes":  "Cobranza y Abonos: si el corte de origen esta cerrado y no hay un corte receptor, el cobro abre una recuperacion con su fecha. Impresion: venta y nota de credito cuando hubo devolucion. Despues de actualizar, instale las pendientes en Configuracion \u003e Rutinas BD.",
     "mandatory":  false
 }
