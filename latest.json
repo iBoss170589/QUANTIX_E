@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.52.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.52.0/QUANTIX_E_1.0.52.0.zip",
-    "sha256":  "A67CA50D22E57B8FE14D91CCCC06ADA7491EAF35E5A6D65A43613198C278D095",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.52.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.53.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.53.0/QUANTIX_E_1.0.53.0.zip",
+    "sha256":  "1E0C111A6364889B630B15D81A7E9D3C67C42E80E9E4FFFEC7D95117CD999F08",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.53.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "7142BC063B3BD6CC67C5799B687DBE5E5CC4638827893F498868D7C601DB2C9C",
-    "notes":  "Importador SAE62 para CEDIS: conserva inventario central, proveedores, compras, salidas y Kardex de compras y traspasos en una nueva base Core. La operacion de las rutas llega por sincronizacion. Configuracion permite ejecutar el primer envio completo a CEDIS.",
+    "notes":  "Cobranza imprime VENTA y conserva el formato CONTADO para las ventas de contado. Cuando hay devolucion, cada copia se envia a Windows en un solo trabajo con venta y nota de credito. Sin devolucion solo se imprime la venta.",
     "mandatory":  false
 }
