@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.53.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.53.0/QUANTIX_E_1.0.53.0.zip",
-    "sha256":  "1E0C111A6364889B630B15D81A7E9D3C67C42E80E9E4FFFEC7D95117CD999F08",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.53.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "7142BC063B3BD6CC67C5799B687DBE5E5CC4638827893F498868D7C601DB2C9C",
-    "notes":  "Cobranza imprime VENTA y conserva el formato CONTADO para las ventas de contado. Cuando hay devolucion, cada copia se envia a Windows en un solo trabajo con venta y nota de credito. Sin devolucion solo se imprime la venta.",
+    "version":  "1.0.54.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.54.0/QUANTIX_E_1.0.54.0.zip",
+    "sha256":  "30B34D5DDE9B302A240F9C66FB96320CC257BF1CC0E4B567B8497BB655AC9185",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.54.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
+    "notes":  "Dashboard central de CEDIS con nombre comercial de Configuración, búsqueda y filtros de rutas, ficha con cartera e inventario, alertas operativas y estado de sincronización.",
     "mandatory":  false
 }
