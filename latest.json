@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.56.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.56.0/QUANTIX_E_1.0.56.0.zip",
-    "sha256":  "870DC08F8F02EBBCAF6469208D47D67CF4CDA91790682935A9EDF70F8669E51F",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.56.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.57.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.57.0/QUANTIX_E_1.0.57.0.zip",
+    "sha256":  "79AB280575F75922340FAB06287C1932F835BB1261F78E6032B4796742B080E1",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.57.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Detalle de ruta en CEDIS reorganizado con encabezado adaptable, indicadores y resumen ejecutivo ordenados.",
+    "notes":  "Consultas Core en CEDIS por ruta o todas las sucursales; Punto de venta deshabilitado en CEDIS.",
     "mandatory":  false
 }
