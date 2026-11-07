@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.54.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.54.0/QUANTIX_E_1.0.54.0.zip",
-    "sha256":  "30B34D5DDE9B302A240F9C66FB96320CC257BF1CC0E4B567B8497BB655AC9185",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.54.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.55.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.55.0/QUANTIX_E_1.0.55.0.zip",
+    "sha256":  "A5E224C6C6C1218D2903D000394B3C025C76F844817D7905EBF0C6CC1F1C51BD",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.55.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Dashboard central de CEDIS con nombre comercial de Configuración, búsqueda y filtros de rutas, ficha con cartera e inventario, alertas operativas y estado de sincronización.",
+    "notes":  "Dashboard de sucursal con indicador de carga y tiempo transcurrido, caja por grupo y fecha, desglose de cobros y último acuse de sincronización.",
     "mandatory":  false
 }
