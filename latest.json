@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.58.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.58.0/QUANTIX_E_1.0.58.0.zip",
-    "sha256":  "9C4383CD0B950A05B5A3F55EDD24879ACF171210D88F4898317AF5C21C1B8C82",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.58.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.59.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.59.0/QUANTIX_E_1.0.59.0.zip",
+    "sha256":  "14B624B0F529CA1D8BC6BC97F033F9AF1E5366988ACEF9E52E6CEC777A276AF2",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.59.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Premios Ambar CEDIS a sucursal en sincronizacion general; comisiones asesor Joyeria B 15/10/5/5; ajuste de inventario validado.",
+    "notes":  "Preparación visual durante el splash y eliminación de la pausa fija de arranque.",
     "mandatory":  false
 }
