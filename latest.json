@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.60.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.60.0/QUANTIX_E_1.0.60.0.zip",
-    "sha256":  "2FACE3B9398B4815381E96327B1F0447A8966D72A2439E63EC0C7090C5155B5D",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.60.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.61.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.61.0/QUANTIX_E_1.0.61.0.zip",
+    "sha256":  "84F2EE242B9C2BC94F2E19CACE70500FAA303BA8FB60791759665CF586C47E89",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.61.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Venta y nota de crédito en trabajos separados. Copias por tipo de ticket en Configuración, Impresora POS.",
+    "notes":  "Corrige el envío a CEDIS de consignas con pagos asociados a su remisión.",
     "mandatory":  false
 }
