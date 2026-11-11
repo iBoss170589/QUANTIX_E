@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.59.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.59.0/QUANTIX_E_1.0.59.0.zip",
-    "sha256":  "14B624B0F529CA1D8BC6BC97F033F9AF1E5366988ACEF9E52E6CEC777A276AF2",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.59.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.60.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.60.0/QUANTIX_E_1.0.60.0.zip",
+    "sha256":  "2FACE3B9398B4815381E96327B1F0447A8966D72A2439E63EC0C7090C5155B5D",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.60.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Preparación visual durante el splash y eliminación de la pausa fija de arranque.",
+    "notes":  "Venta y nota de crédito en trabajos separados. Copias por tipo de ticket en Configuración, Impresora POS.",
     "mandatory":  false
 }
