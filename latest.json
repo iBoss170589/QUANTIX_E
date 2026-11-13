@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.62.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.62.0/QUANTIX_E_1.0.62.0.zip",
-    "sha256":  "F87C9BC4AE088223779782E712FF82EDEB666CA61515FEB978569D02B50F7B61",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.62.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.63.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.63.0/QUANTIX_E_1.0.63.0.zip",
+    "sha256":  "C4008364A83B6D8DE691438E57FA70F89DCFE02707DB2A42F143CADC0C391113",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.63.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Enlace automático de rutas de traspasos con CEDIS y corrección 57357 en Rutinas BD.",
+    "notes":  "Traspasos de rutas, envío programado e inventario de sucursales en CEDIS. Configuración reorganizada.",
     "mandatory":  false
 }
