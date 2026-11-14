@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.63.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.63.0/QUANTIX_E_1.0.63.0.zip",
-    "sha256":  "C4008364A83B6D8DE691438E57FA70F89DCFE02707DB2A42F143CADC0C391113",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.63.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.64.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.64.0/QUANTIX_E_1.0.64.0.zip",
+    "sha256":  "BD46A605858D884C02ADFB95F81948BC658F827FB9EE6F3170A4652AFB065B04",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.64.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Traspasos de rutas, envío programado e inventario de sucursales en CEDIS. Configuración reorganizada.",
+    "notes":  "Recepciones, venta de piezas recibidas, compras y sus historiales en CEDIS. Inventario por almacén y correcciones del corte.",
     "mandatory":  false
 }
