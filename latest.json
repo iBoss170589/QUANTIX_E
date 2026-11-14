@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.64.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.64.0/QUANTIX_E_1.0.64.0.zip",
-    "sha256":  "BD46A605858D884C02ADFB95F81948BC658F827FB9EE6F3170A4652AFB065B04",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.64.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.65.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.65.0/QUANTIX_E_1.0.65.0.zip",
+    "sha256":  "9948F74013C4AED57D4DA9B72E6FEB50391899CCDF0DDFB3AD8F0A253A3226AE",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.65.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Recepciones, venta de piezas recibidas, compras y sus historiales en CEDIS. Inventario por almacén y correcciones del corte.",
+    "notes":  "Actualiza en CEDIS los saldos de ajustes de sucursal aun cuando llegan fuera de orden. Limita los ajustes y su auditoria al almacen central de CEDIS.",
     "mandatory":  false
 }
