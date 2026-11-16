@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.69.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.69.0/QUANTIX_E_1.0.69.0.zip",
-    "sha256":  "E301B1C083A7E031B49FCF948096D66D101A66D4C2ECFB0FEF0E3E0634064017",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.69.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.70.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.70.0/QUANTIX_E_1.0.70.0.zip",
+    "sha256":  "559F6078EA010AEA7ACC8B41F5D1E8BA7A908E7404AAA24C3BDF3FF755A4C73A",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.70.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "En Traspasos enviados de CEDIS, los folios cuyo acuse ya fue confirmado muestran RECIBIDO en verde. La columna Estado reserva espacio para el texto completo.",
+    "notes":  "Sucursal Core: Pendientes sync abre el monitor con cualquier usuario. La franja del panel muestra espera, conexión, etapa y resultado. Sincronizar inicia el envío manual. Incluye RECIBIDO en verde en Traspasos enviados de CEDIS.",
     "mandatory":  false
 }
