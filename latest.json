@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.67.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.67.0/QUANTIX_E_1.0.67.0.zip",
-    "sha256":  "FBB69D8F2B321318B8C6740C48F4A023F9C0075CE84F102E632FA6DF4EAC933D",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.67.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.68.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.68.0/QUANTIX_E_1.0.68.0.zip",
+    "sha256":  "7D43E0DA420A4E0E7455EA88BC4A4D9DE5F7CB87C32B9607804EB0A29B471405",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.68.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Traspasos Core: restablece el almacén faltante de una sucursal al sincronizar con CEDIS y distingue un almacén desactivado de uno faltante.",
+    "notes":  "Formato térmico compartido en Joyería A y B para venta, contado, consigna, especial, nota de crédito, abonos, garantía, bonos y comisiones. Conserva los campos y leyendas de cada modalidad.",
     "mandatory":  false
 }
