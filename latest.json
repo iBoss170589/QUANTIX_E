@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.65.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.65.0/QUANTIX_E_1.0.65.0.zip",
-    "sha256":  "9948F74013C4AED57D4DA9B72E6FEB50391899CCDF0DDFB3AD8F0A253A3226AE",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.65.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.66.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.66.0/QUANTIX_E_1.0.66.0.zip",
+    "sha256":  "FE97931DA48D73260F7616D9A7AF9152B039B1C13835E63F882F823AA53C3EDE",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.66.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Actualiza en CEDIS los saldos de ajustes de sucursal aun cuando llegan fuera de orden. Limita los ajustes y su auditoria al almacen central de CEDIS.",
+    "notes":  "La impresión y reimpresión de venta, contado y especial usan los importes de cada partida y el total guardado en Core. Se conservan los centavos de operaciones históricas.",
     "mandatory":  false
 }
