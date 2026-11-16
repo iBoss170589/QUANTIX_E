@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.66.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.66.0/QUANTIX_E_1.0.66.0.zip",
-    "sha256":  "FE97931DA48D73260F7616D9A7AF9152B039B1C13835E63F882F823AA53C3EDE",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.66.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.67.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.67.0/QUANTIX_E_1.0.67.0.zip",
+    "sha256":  "FBB69D8F2B321318B8C6740C48F4A023F9C0075CE84F102E632FA6DF4EAC933D",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.67.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "La impresión y reimpresión de venta, contado y especial usan los importes de cada partida y el total guardado en Core. Se conservan los centavos de operaciones históricas.",
+    "notes":  "Traspasos Core: restablece el almacén faltante de una sucursal al sincronizar con CEDIS y distingue un almacén desactivado de uno faltante.",
     "mandatory":  false
 }
