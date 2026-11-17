@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.71.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.71.0/QUANTIX_E_1.0.71.0.zip",
-    "sha256":  "5BC036B88595E14CB690E18B144DD8CD0B11266BF1A6F9182E4FE9C49C662894",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.71.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Punto de venta de Joyería A y B: al agregar piezas con existencia insuficiente se aplica el permiso vigente. Con el permiso activo, se admite saldo cero o negativo y se avisa una vez por artículo. Incluye el monitor y el botón Sincronizar del panel de sucursal.",
+    "version":  "1.0.72.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.72.0/QUANTIX_E_1.0.72.0.zip",
+    "sha256":  "8E30779727AA57BC8624D25DE647A5617BA2646298C2E647B08A4BD96DC2CD6A",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.72.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "B578C728C55FC649F910BCA0BC468973319F26445F327C067DE616E24DDB460B",
+    "notes":  "Puntos Ámbar: habilita el envío de premios desde CEDIS a sucursales cuando el nodo opera con Core.",
     "mandatory":  false
 }
