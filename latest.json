@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.70.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.70.0/QUANTIX_E_1.0.70.0.zip",
-    "sha256":  "559F6078EA010AEA7ACC8B41F5D1E8BA7A908E7404AAA24C3BDF3FF755A4C73A",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.70.0/UpdaterQUANTIX.exe",
+    "version":  "1.0.71.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.71.0/QUANTIX_E_1.0.71.0.zip",
+    "sha256":  "5BC036B88595E14CB690E18B144DD8CD0B11266BF1A6F9182E4FE9C49C662894",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.71.0/UpdaterQUANTIX.exe",
     "updaterSha256":  "F7FAFC448DE4BDEFDDBBF9A82E498C50DE6547EECBB3F69EF7B97BE3FA6B8A55",
-    "notes":  "Sucursal Core: Pendientes sync abre el monitor con cualquier usuario. La franja del panel muestra espera, conexión, etapa y resultado. Sincronizar inicia el envío manual. Incluye RECIBIDO en verde en Traspasos enviados de CEDIS.",
+    "notes":  "Punto de venta de Joyería A y B: al agregar piezas con existencia insuficiente se aplica el permiso vigente. Con el permiso activo, se admite saldo cero o negativo y se avisa una vez por artículo. Incluye el monitor y el botón Sincronizar del panel de sucursal.",
     "mandatory":  false
 }
