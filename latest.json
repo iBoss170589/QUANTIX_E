@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.72.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.72.0/QUANTIX_E_1.0.72.0.zip",
-    "sha256":  "8E30779727AA57BC8624D25DE647A5617BA2646298C2E647B08A4BD96DC2CD6A",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.72.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "B578C728C55FC649F910BCA0BC468973319F26445F327C067DE616E24DDB460B",
-    "notes":  "Puntos Ámbar: habilita el envío de premios desde CEDIS a sucursales cuando el nodo opera con Core.",
+    "version":  "1.0.74.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.74.0/QUANTIX_E_1.0.74.0.zip",
+    "sha256":  "01A6A8125AFD6912AF06C7F8886AC40DD18F2776E6A4DB1751AF9B788415CA01",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.74.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "7EB9C1A95186D1C8EE70AE1E85F4A192804FB804FD13C5C9F05C5DB50D1B6462",
+    "notes":  "Bonos: usa el almacen asignado a la sucursal. Comisiones atrasadas: usa el corte abierto del grupo u otro abierto; bloquea si no hay caja abierta. Instalar rutinas pendientes desde Configuracion \u003e Rutinas BD.",
     "mandatory":  false
 }
