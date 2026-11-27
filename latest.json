@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.77.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.77.0/QUANTIX_E_1.0.77.0.zip",
-    "sha256":  "EFF908CBDAA6BDA5FF04EB7655A51ED046D05AE9680CC83A578B219EFC6792A6",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.77.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "0C639BB1EBEAB3C5C0BEEAC185514B54FD52C743BBBC700D9DD151B97499C048",
-    "notes":  "Corrige la importaciÃ³n de folios e historial de comisiones SAE62; conserva evidencia original y muestra partidas pagadas sin folio. Permite consultar lotes reconstruidos desde comprobantes sin crear pagos. Integra cobros histÃ³ricos comprobados en cartera y respeta cierres histÃ³ricos y claves de vendedor. Instalar las rutinas pendientes en sucursal y CEDIS. Los datos reales no se reasignan automÃ¡ticamente.",
+    "version":  "1.0.78.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.78.0/QUANTIX_E_1.0.78.0.zip",
+    "sha256":  "FD81BEAEB62E069448D18B9146AE59EA0B9990CD30D30A3A2C16DB7CD29C67F8",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.78.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "137A22DB7B697301A68BA35A4C63939625AD9A99A7F6BDD92B812A48ACF61335",
+    "notes":  "Puntos Ambar Core: catalogo y premios habilitados para sucursales; recepcion y replica con almacenes distintos; acuses y reintentos sin duplicar. Actualizar CEDIS y sucursales; instalar rutina CORE-378-PREMIOS-AMBAR en CEDIS y sincronizar la sucursal.",
     "mandatory":  false
 }
