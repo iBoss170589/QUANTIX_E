@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.78.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.78.0/QUANTIX_E_1.0.78.0.zip",
-    "sha256":  "FD81BEAEB62E069448D18B9146AE59EA0B9990CD30D30A3A2C16DB7CD29C67F8",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.78.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "137A22DB7B697301A68BA35A4C63939625AD9A99A7F6BDD92B812A48ACF61335",
-    "notes":  "Puntos Ambar Core: catalogo y premios habilitados para sucursales; recepcion y replica con almacenes distintos; acuses y reintentos sin duplicar. Actualizar CEDIS y sucursales; instalar rutina CORE-378-PREMIOS-AMBAR en CEDIS y sincronizar la sucursal.",
+    "version":  "1.0.80.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.80.0/QUANTIX_E_1.0.80.0.zip",
+    "sha256":  "F5E15C482FE2D11A6481B9694B864D5A2265CC780EA278B7A824911FD1389B89",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.80.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "BAA25DB4FA1A2787B455F691FDECA22B100257BB7C3E58B89368B8B794EF30B9",
+    "notes":  "Ventas y surtidos separados en sucursal y CEDIS; cartera a 30 dias desde surtido. Traspasos por recibir cuenta recepciones reales, no avisos sin leer. Arqueo para cierres historicos abiertos conservando historial y sincronizacion. Salidas CEDIS corrigen validacion de base. Actualizar CEDIS y sucursales, instalar CORE-379-PANEL y CORE-379-OPERACIONES en Configuracion \u003e Rutinas BD. Generar corte antes de cerrar el historico mediante arqueo.",
     "mandatory":  false
 }
