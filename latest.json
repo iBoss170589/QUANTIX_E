@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.81.0",
-    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.81.0/QUANTIX_E_1.0.81.0.zip",
-    "sha256":  "5A0072776CA43B51CDB8DF53567DEF0C35D2E09AAC7287B7F688C391EC862EEA",
-    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.81.0/UpdaterQUANTIX.exe",
-    "updaterSha256":  "79B9D6EB29A7D57924ACA42C018AD89C51246858B7C005B1CBC57C9F2D67B928",
-    "notes":  "Compras: abre la vista previa al guardar o consultar; el usuario elige impresora y copias en el dialogo de impresion. Sin envio automatico a la etiquetadora o impresora del POS. No requiere rutinas SQL nuevas.",
+    "version":  "1.0.82.0",
+    "downloadUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.82.0/QUANTIX_E_1.0.82.0.zip",
+    "sha256":  "8C448D6EF32EEE0F9E36D4744209E2D5924606C2AC787970277CC8E24612E852",
+    "updaterUrl":  "https://github.com/iBoss170589/QUANTIX_E/releases/download/v1.0.82.0/UpdaterQUANTIX.exe",
+    "updaterSha256":  "6D60496EFB8781E67D91214E580340BD98A8EEBDA89FB1C5B49899562BC64026",
+    "notes":  "Reporte de cierre: utiliza los mismos cobros y comisiones de la caja confirmada; evita sumar otra vez la cobranza historica por folios relacionados y ajustes de cartera. Conserva arqueo, historial y validacion de totales. No requiere rutinas SQL nuevas.",
     "mandatory":  false
 }
